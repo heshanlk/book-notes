@@ -97,7 +97,7 @@ Libuv represents the low-level I/O engine of Node.js and is probably the most im
 
 libuv also implements the reactor pattern, thus providing an API for creating event loops, managing the event queue, running asynchronous I/O operations, and queuing other types of task.
 
-[http://nikhilm.github.io/uvbook/index.html](An introduction to Libv)
+[An introduction to Libv](http://nikhilm.github.io/uvbook/index.html)
 
 #### The recipe for Node.js
 
