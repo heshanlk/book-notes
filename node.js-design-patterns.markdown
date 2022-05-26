@@ -129,9 +129,13 @@ Nowadays, most JavaScript virtual machines (VMs) (and also Node.js) support WebA
 
 ### Summary
 In this chapter, you have seen how the Node.js platform is built upon a few important principles that shape both its internal architecture and the code we write. You have learned that Node.js has a minimal core, and that embracing the "Node way" means writing modules that are smaller, simpler, and that expose only the minimum functionality necessary.
+
 Next, you discovered the reactor pattern, which is the pulsating heart of Node.js, and dissected the internal architecture of the platform runtime to reveal its three pillars: V8, libuv, and the core JavaScript library.
+
 Finally, we analyzed some of the main characteristics of using JavaScript in Node.js compared to the browser.
+
 Besides the obvious technical advantages enabled by its internal architecture, Node.js is attracting so much interest because of the principles you have just discovered and the community orbiting around it. For many, grasping the essence of this world feels like returning to the origins, to a more humane way of programming in both size and complexity, and that's why developers end up falling in love with Node.js.
+
 In the next chapter, we will go deep into one of the most fundamental and important topics of Node.js, its module system.
 
 
